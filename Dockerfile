@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor:v0.42.0
+FROM quay.io/prometheus/node-exporter:v1.3.1
